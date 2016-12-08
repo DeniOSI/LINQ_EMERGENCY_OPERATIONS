@@ -1,0 +1,6 @@
+c:\users\osipenko\documents\visual studio 2015\Projects\LINQ_EMERGENCY_OPERATION\LINQ_EMERGENCY_OPERATION\bin\Debug\LINQ_EMERGENCY_OPERATION.exe.config
+c:\users\osipenko\documents\visual studio 2015\Projects\LINQ_EMERGENCY_OPERATION\LINQ_EMERGENCY_OPERATION\bin\Debug\LINQ_EMERGENCY_OPERATION.exe
+c:\users\osipenko\documents\visual studio 2015\Projects\LINQ_EMERGENCY_OPERATION\LINQ_EMERGENCY_OPERATION\bin\Debug\LINQ_EMERGENCY_OPERATION.pdb
+c:\users\osipenko\documents\visual studio 2015\Projects\LINQ_EMERGENCY_OPERATION\LINQ_EMERGENCY_OPERATION\obj\Debug\LINQ_EMERGENCY_OPERATION.csprojResolveAssemblyReference.cache
+c:\users\osipenko\documents\visual studio 2015\Projects\LINQ_EMERGENCY_OPERATION\LINQ_EMERGENCY_OPERATION\obj\Debug\LINQ_EMERGENCY_OPERATION.exe
+c:\users\osipenko\documents\visual studio 2015\Projects\LINQ_EMERGENCY_OPERATION\LINQ_EMERGENCY_OPERATION\obj\Debug\LINQ_EMERGENCY_OPERATION.pdb
